@@ -9,12 +9,12 @@
     About Me
   </h3>
 
-  I am currently working on **Python** and **Kotlin**. I am strictly focused on **Machine Learning**, **Database Management**, and **Containerization**.
+  I am currently working on **Python** and **Kotlin**. I have a deep curiosity for **Artificial Intelligence** and I actively build **API-driven** solutions.
 
-  - 🔭 I’m currently working on **Machine Learning & AI** projects.
-  - 💻 I’m developing backend & mobile systems with **Kotlin, Python & SQL**.
+  - 🔭 I’m strictly focused on **Machine Learning & AI Architectures**.
+  - 💻 I **Develop** scalable backend & mobile solutions using **Kotlin & Python**.
+  - ⚡ I specialize in **REST APIs** and integrating **AI models** into web services.
   - 🐳 I use **Docker** for containerization and deployment.
-  - 🔌 I’m interested in **Web Services & REST APIs**.
 
   ---
 
