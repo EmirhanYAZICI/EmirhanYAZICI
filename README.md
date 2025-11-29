@@ -1,10 +1,11 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=23F7DD&center=true&vCenter=true&width=435&lines=Hello+World!+%F0%9F%91%8B;I'm+Emirhan+Yaz%C4%B1c%C4%B1;Python+%26+Java+Developer;ML%2C+SQL+%26+Docker+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=23F7DD&center=true&vCenter=true&width=435&lines=Hello+World!+%F0%9F%91%8B;I+Develop+Projects+with+Python+%26+Java+%F0%9F%9A%80" alt="Typing SVG" />
 </div>
 
 <div align="center">
 
-  ### 🚀 About Me
+  ### [none](https://github.com/user-attachments/assets/99e70f6c-d3c7-49f8-b8d8-b75f3f815b2e) About Me 
+
 
   I am currently working on **Python** and **Java**. I am strictly focused on **Machine Learning**, **Database Management**, and **Containerization**.
 
@@ -42,11 +43,14 @@
 
   ---
 
-  ### 📊 GitHub Stats
+  ### 🏆 Achievements
 
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=EmirhanYAZICI&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180em" alt="Stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmirhanYAZICI&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180em" alt="Languages" />
-  </p>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=EmirhanYAZICI&theme=gruvbox&no-frame=true&no-bg=true&margin-w=4" alt="emirhanyazici" />
+  </a>
+
+  <br/><br/>
+
+  <img src="https://i.pinimg.com/originals/3d/08/e0/3d08e03cb40252526eeea26596e2030f.gif" width="100%" style="border-radius: 10px;"/>
 
 </div>
