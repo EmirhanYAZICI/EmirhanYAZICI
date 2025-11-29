@@ -19,7 +19,7 @@
   ---
 
   <h3>
-    <img src="https://raw.githubusercontent.com/EmirhanYAZICI/EmirhanYAZICI/main/gmail-icon.png" height="40" style="vertical-align: bottom;"/> 
+    <img src="https://raw.githubusercontent.com/EmirhanYAZICI/EmirhanYAZICI/main/mail.png" height="40" style="vertical-align: bottom;"/> 
     Connect with Me
   </h3>
 
@@ -51,7 +51,7 @@
 
   ---
 
-  <h3>🔥 Coding Activity (Neon Theme)</h3>
+  <h3>🔥 Coding Activity</h3>
   
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=EmirhanYAZICI&theme=radical&hide_border=true" alt="Streak" />
   <br/>
