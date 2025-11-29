@@ -4,7 +4,7 @@
 
 <div align="center">
 
-  ### <img src="https://raw.githubusercontent.com/EmirhanYAZICI/EmirhanYAZICI/main/finn.png" width="35px" style="vertical-align: middle;" alt="Finn and Jake"/> About Me
+  ### <img src="https://raw.githubusercontent.com/EmirhanYAZICI/EmirhanYAZICI/main/finn.png" width="40px" style="vertical-align: middle;" alt="Finn"/> About Me
 
   I am currently working on **Python** and **Java**. I am strictly focused on **Machine Learning**, **Database Management**, and **Containerization**.
 
@@ -26,7 +26,7 @@
 
   ---
 
-  ### <img src="https://raw.githubusercontent.com/EmirhanYAZICI/EmirhanYAZICI/main/alien.png" width="35px" style="vertical-align: middle;" alt="Alien Invader"/> Tech Stack & Tools
+  ### <img src="https://raw.githubusercontent.com/EmirhanYAZICI/EmirhanYAZICI/main/alien.png" width="40px" style="vertical-align: middle;" alt="Alien"/> Tech Stack & Tools
 
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
@@ -44,9 +44,11 @@
 
   ### 🔥 Coding Activity
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EmirhanYAZICI&theme=radical&hide_border=true" alt="Streak" />
+  ![Emirhan's Streak](https://github-readme-streak-stats.herokuapp.com/?user=EmirhanYAZICI&theme=radical&hide_border=true)
+  
   <br/>
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=EmirhanYAZICI&theme=rogue&hide_border=true&area=true" width="100%" alt="Activity Graph" />
+  
+  ![Emirhan's Graph](https://github-readme-activity-graph.cyclic.app/graph?username=EmirhanYAZICI&theme=rogue&hide_border=true&area=true)
 
   <br/><br/>
 
