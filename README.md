@@ -51,9 +51,12 @@
 
   ---
 
-  <h3>🔥 Coding Activity</h3>
+  <h3>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" height="40" style="vertical-align: bottom;"/>
+    Coding Activity
+  </h3>
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EmirhanYAZICI&theme=radical&hide_border=true" alt="Streak" />
+  <img src="https://streak-stats.demolab.com/?user=EmirhanYAZICI&theme=radical&hide_border=true" alt="Streak" />
   <br/>
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=EmirhanYAZICI&theme=tokyonight&hide_border=true&area=true" width="100%" alt="Activity Graph" />
 
