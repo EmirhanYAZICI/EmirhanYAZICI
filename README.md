@@ -51,6 +51,6 @@
 
   <br/><br/>
 
-  <img src="https://cdn.dribbble.com/users/1186261/screenshots/3718681/_______.gif" width="100%" style="border-radius: 10px;"/>
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/this-is-fine-fire.gif" width="100%" style="border-radius: 10px; max-width: 600px;"/>
 
 </div>
