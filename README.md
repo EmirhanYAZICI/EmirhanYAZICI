@@ -49,17 +49,6 @@
 
   <img src="https://img.shields.io/badge/Machine%20Learning-F7931E?style=for-the-badge&logo=tensorflow&logoColor=white" alt="ML"/>
 
-  ---
-
-  <h3>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" height="40" style="vertical-align: bottom;"/>
-    Coding Activity
-  </h3>
-  
-  <img src="https://streak-stats.demolab.com/?user=EmirhanYAZICI&theme=radical&hide_border=true" alt="Streak" />
-  <br/>
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=EmirhanYAZICI&theme=tokyonight&hide_border=true&area=true" width="100%" alt="Activity Graph" />
-
   <br/><br/>
 
   <img src="https://i.pinimg.com/originals/3d/08/e0/3d08e03cb40252526eeea26596e2030f.gif" width="100%" style="border-radius: 10px;"/>
