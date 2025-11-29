@@ -19,6 +19,15 @@
   ---
 
   <h3>
+    <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" height="40" style="vertical-align: bottom;"/>
+    Contributions Snake
+  </h3>
+  
+  <img src="https://github.com/EmirhanYAZICI/EmirhanYAZICI/blob/output/github-contribution-grid-snake.svg" alt="snake" />
+
+  ---
+
+  <h3>
     <img src="https://raw.githubusercontent.com/EmirhanYAZICI/EmirhanYAZICI/main/mail.png" height="40" style="vertical-align: bottom;"/> 
     Connect with Me
   </h3>
@@ -44,4 +53,13 @@
   <img src="https://img.shields.io/badge/sql-%2300f.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL"/>
 
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
+
+  <img src="https://img.shields.io/badge/Machine%20Learning-F7931E?style=for-the-badge&logo=tensorflow&logoColor=white" alt="ML"/>
+
+  <br/><br/>
+
+  <img src="https://media.giphy.com/media/13HgwGsXf0aiGY/giphy.gif" width="100%" style="border-radius: 10px;"/>
+
+</div>
