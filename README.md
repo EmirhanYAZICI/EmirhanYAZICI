@@ -50,7 +50,11 @@
   <img src="https://img.shields.io/badge/Machine%20Learning-F7931E?style=for-the-badge&logo=tensorflow&logoColor=white" alt="ML"/>
 
   <br/><br/>
+  
+  <img src="https://img.shields.io/badge/WORKS_ON_MY_MACHINE-APPROVED-success?style=for-the-badge&logo=linux&logoColor=white&labelColor=000000&color=23F7DD" alt="Meme Badge"/>
+  
+  <br/><br/>
 
-  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/this-is-fine-fire.gif" width="100%" style="border-radius: 10px; max-width: 600px;"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b6d6-452e-b07d-5e263c97e082.gif" width="100%" style="border-radius: 10px;"/>
 
 </div>
