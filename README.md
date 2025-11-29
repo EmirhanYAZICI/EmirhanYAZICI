@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=23F7DD&center=true&vCenter=true&width=435&lines=Hello+World!+%F0%9F%91%8B;I+Develop+Projects+with+Python+%26+Java+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=23F7DD&center=true&vCenter=true&width=435&lines=Hello+World!+%F0%9F%91%8B;I+Develop+Projects+with+Python+%26+Kotlin+%F0%9F%9A%80" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -9,10 +9,10 @@
     About Me
   </h3>
 
-  I am currently working on **Python** and **Java**. I am strictly focused on **Machine Learning**, **Database Management**, and **Containerization**.
+  I am currently working on **Python** and **Kotlin**. I am strictly focused on **Machine Learning**, **Database Management**, and **Containerization**.
 
   - 🔭 I’m currently working on **Machine Learning & AI** projects.
-  - 💻 I’m developing backend systems with **Java, Python & SQL**.
+  - 💻 I’m developing backend & mobile systems with **Kotlin, Python & SQL**.
   - 🐳 I use **Docker** for containerization and deployment.
   - 🔌 I’m interested in **Web Services & REST APIs**.
 
@@ -38,7 +38,7 @@
   </h3>
 
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/>
   
   <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
   <img src="https://img.shields.io/badge/sql-%2300f.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL"/>
