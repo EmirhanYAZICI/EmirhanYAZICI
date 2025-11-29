@@ -4,7 +4,7 @@
 
 <div align="center">
 
-  ### [none](https://github.com/user-attachments/assets/99e70f6c-d3c7-49f8-b8d8-b75f3f815b2e) About Me 
+  ###  ![none](https://github.com/user-attachments/assets/b9fabf36-a798-4eba-aa94-a83d28041aae) About Me 
 
 
   I am currently working on **Python** and **Java**. I am strictly focused on **Machine Learning**, **Database Management**, and **Containerization**.
