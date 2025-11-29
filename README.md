@@ -19,15 +19,6 @@
   ---
 
   <h3>
-    <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" height="40" style="vertical-align: bottom;"/>
-    Contributions Snake
-  </h3>
-  
-  <img src="https://github.com/EmirhanYAZICI/EmirhanYAZICI/blob/output/github-contribution-grid-snake.svg" alt="snake" />
-
-  ---
-
-  <h3>
     <img src="https://raw.githubusercontent.com/EmirhanYAZICI/EmirhanYAZICI/main/mail.png" height="40" style="vertical-align: bottom;"/> 
     Connect with Me
   </h3>
@@ -60,6 +51,6 @@
 
   <br/><br/>
 
-  <img src="https://media.giphy.com/media/13HgwGsXf0aiGY/giphy.gif" width="100%" style="border-radius: 10px;"/>
+  <img src="https://i.pinimg.com/originals/3d/08/e0/3d08e03cb40252526eeea26596e2030f.gif" width="100%" style="border-radius: 10px;"/>
 
 </div>
