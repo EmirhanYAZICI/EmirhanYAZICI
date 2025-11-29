@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=23F7DD&center=true&vCenter=true&width=700&lines=Hello+World!+%F0%9F%91%8B;I+Develop+Projects+with+Python+%26+Kotlin+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=23F7DD&center=true&vCenter=true&width=700&lines=Hello+World!;I+Develop+Projects+with+Python+%26+Kotlin" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -51,6 +51,6 @@
 
   <br/><br/>
 
-  <img src="https://github.com/manikda/manikda/blob/master/adventure_time.gif?raw=true" width="100%" style="border-radius: 10px;"/>
+  <img src="https://i.pinimg.com/originals/47/12/89/471289cde2490c80f60d5e85d2e0e122.gif" width="100%" style="border-radius: 10px;"/>
 
 </div>
