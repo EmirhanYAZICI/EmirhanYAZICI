@@ -51,6 +51,6 @@
 
   <br/><br/>
 
-  <img src="https://i.pinimg.com/originals/47/12/89/471289cde2490c80f60d5e85d2e0e122.gif" width="100%" style="border-radius: 10px;"/>
+  <img src="https://cdn.dribbble.com/users/1186261/screenshots/3718681/_______.gif" width="100%" style="border-radius: 10px;"/>
 
 </div>
