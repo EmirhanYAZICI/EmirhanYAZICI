@@ -4,8 +4,7 @@
 
 <div align="center">
 
-  ###  (https://github.com/user-attachments/assets/b9fabf36-a798-4eba-aa94-a83d28041aae) About Me 
-
+  ### <img src="https://raw.githubusercontent.com/EmirhanYAZICI/EmirhanYAZICI/main/finn.png" width="35px" style="vertical-align: middle;" alt="Finn and Jake"/> About Me
 
   I am currently working on **Python** and **Java**. I am strictly focused on **Machine Learning**, **Database Management**, and **Containerization**.
 
@@ -27,7 +26,7 @@
 
   ---
 
-  ### 🛠️ Tech Stack & Tools
+  ### <img src="https://raw.githubusercontent.com/EmirhanYAZICI/EmirhanYAZICI/main/alien.png" width="35px" style="vertical-align: middle;" alt="Alien Invader"/> Tech Stack & Tools
 
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
@@ -43,11 +42,11 @@
 
   ---
 
-  ### 🏆 Achievements
-
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=EmirhanYAZICI&theme=gruvbox&no-frame=true&no-bg=true&margin-w=4" alt="emirhanyazici" />
-  </a>
+  ### 🔥 Coding Activity
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EmirhanYAZICI&theme=radical&hide_border=true" alt="Streak" />
+  <br/>
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=EmirhanYAZICI&theme=rogue&hide_border=true&area=true" width="100%" alt="Activity Graph" />
 
   <br/><br/>
 
