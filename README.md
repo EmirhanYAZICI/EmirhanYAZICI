@@ -4,7 +4,10 @@
 
 <div align="center">
 
-  ### <img src="https://raw.githubusercontent.com/EmirhanYAZICI/EmirhanYAZICI/main/finn.png" width="40px" style="vertical-align: middle;" alt="Finn"/> About Me
+  <h3>
+    <img src="https://github.com/EmirhanYAZICI/EmirhanYAZICI/blob/main/finn.png?raw=true" width="45" style="vertical-align: bottom;" /> 
+    About Me
+  </h3>
 
   I am currently working on **Python** and **Java**. I am strictly focused on **Machine Learning**, **Database Management**, and **Containerization**.
 
@@ -15,7 +18,7 @@
 
   ---
 
-  ### 📫 Connect with Me
+  <h3>📫 Connect with Me</h3>
 
   <a href="mailto:emirhanyzc3429@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
@@ -26,7 +29,10 @@
 
   ---
 
-  ### <img src="https://raw.githubusercontent.com/EmirhanYAZICI/EmirhanYAZICI/main/alien.png" width="40px" style="vertical-align: middle;" alt="Alien"/> Tech Stack & Tools
+  <h3>
+    <img src="https://github.com/EmirhanYAZICI/EmirhanYAZICI/blob/main/alien.png?raw=true" width="45" style="vertical-align: bottom;" /> 
+    Tech Stack & Tools
+  </h3>
 
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
@@ -42,13 +48,13 @@
 
   ---
 
-  ### 🔥 Coding Activity
+  <h3>🔥 Coding Activity</h3>
   
-  ![Emirhan's Streak](https://github-readme-streak-stats.herokuapp.com/?user=EmirhanYAZICI&theme=radical&hide_border=true)
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EmirhanYAZICI&theme=radical&hide_border=true" alt="Streak" />
   
   <br/>
   
-  ![Emirhan's Graph](https://github-readme-activity-graph.cyclic.app/graph?username=EmirhanYAZICI&theme=rogue&hide_border=true&area=true)
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=EmirhanYAZICI&theme=rogue&hide_border=true&area=true" width="100%" alt="Activity Graph" />
 
   <br/><br/>
 
