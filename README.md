@@ -20,17 +20,17 @@
 
   <h3>Featured Project</h3>
 
-  <a href="https://github.com/EmirhanYAZICI/reelsmith"><b>Reelsmith</b></a>: a Claude Code skill that turns a voiceover, scene clips, a script and a logo into a finished Instagram Reel.<br/>
+  <a href="https://github.com/EmirhanYAZICI/reels-edit"><b>reels-edit</b></a>: a Claude Code skill that turns a voiceover, scene clips, a script and a logo into a finished Instagram Reel.<br/>
   Local Whisper captions, HyperFrames edit, moving logo watermark, 1080x1920 at 30 fps. No API keys, runs fully on your machine. Docs in English and Turkish.
 
   <br/><br/>
 
-  <a href="https://github.com/EmirhanYAZICI/reelsmith">
+  <a href="https://github.com/EmirhanYAZICI/reels-edit">
     <img src="https://img.shields.io/badge/Claude_Code-Skill-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Code Skill"/>
     <img src="https://img.shields.io/badge/Whisper-local-412991?style=for-the-badge&logo=openai&logoColor=white" alt="Whisper"/>
     <img src="https://img.shields.io/badge/HyperFrames-GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black" alt="HyperFrames"/>
     <img src="https://img.shields.io/badge/FFmpeg-007808?style=for-the-badge&logo=ffmpeg&logoColor=white" alt="FFmpeg"/>
-    <img src="https://img.shields.io/github/stars/EmirhanYAZICI/reelsmith?style=for-the-badge&color=23F7DD&labelColor=000000" alt="Stars"/>
+    <img src="https://img.shields.io/github/stars/EmirhanYAZICI/reels-edit?style=for-the-badge&color=23F7DD&labelColor=000000" alt="Stars"/>
   </a>
 
   ---
